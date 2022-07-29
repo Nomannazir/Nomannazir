@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Nomannazir
+- 👋 Hi, I’m @Nomannazir full stack web developer
 - 👀 I’m interested in developing world leading web technolgies
 - 🌱 I’m currently learning next.js and blockchain
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on in any time of project
 - 📫 You can reach me through my portfolio https://nomananzir.com
 
 <!---
